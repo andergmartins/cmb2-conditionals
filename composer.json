@@ -22,7 +22,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "files": [
-            "vendor/andergmartins/cmb2-conditionals.php"
+            "cmb2-conditionals.php"
         ]
     }
 }
