@@ -18,5 +18,10 @@
     "require": {
         "php": ">5.4",
         "cmb2/cmb2": "dev-master"
+    },
+    "autoload": {
+        "files": [
+            "vendor/andergmartins/cmb2-conditionals.php"
+        ]
     }
 }
